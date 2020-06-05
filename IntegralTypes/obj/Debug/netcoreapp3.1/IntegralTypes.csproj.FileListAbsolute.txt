@@ -1,0 +1,13 @@
+D:\_work\_dotnet\FullStackDotNet\csharp\IntegralTypes\bin\Debug\netcoreapp3.1\IntegralTypes.exe
+D:\_work\_dotnet\FullStackDotNet\csharp\IntegralTypes\bin\Debug\netcoreapp3.1\IntegralTypes.deps.json
+D:\_work\_dotnet\FullStackDotNet\csharp\IntegralTypes\bin\Debug\netcoreapp3.1\IntegralTypes.runtimeconfig.json
+D:\_work\_dotnet\FullStackDotNet\csharp\IntegralTypes\bin\Debug\netcoreapp3.1\IntegralTypes.runtimeconfig.dev.json
+D:\_work\_dotnet\FullStackDotNet\csharp\IntegralTypes\bin\Debug\netcoreapp3.1\IntegralTypes.dll
+D:\_work\_dotnet\FullStackDotNet\csharp\IntegralTypes\bin\Debug\netcoreapp3.1\IntegralTypes.pdb
+D:\_work\_dotnet\FullStackDotNet\csharp\IntegralTypes\obj\Debug\netcoreapp3.1\IntegralTypes.csprojAssemblyReference.cache
+D:\_work\_dotnet\FullStackDotNet\csharp\IntegralTypes\obj\Debug\netcoreapp3.1\IntegralTypes.csproj.CoreCompileInputs.cache
+D:\_work\_dotnet\FullStackDotNet\csharp\IntegralTypes\obj\Debug\netcoreapp3.1\IntegralTypes.AssemblyInfoInputs.cache
+D:\_work\_dotnet\FullStackDotNet\csharp\IntegralTypes\obj\Debug\netcoreapp3.1\IntegralTypes.AssemblyInfo.cs
+D:\_work\_dotnet\FullStackDotNet\csharp\IntegralTypes\obj\Debug\netcoreapp3.1\IntegralTypes.dll
+D:\_work\_dotnet\FullStackDotNet\csharp\IntegralTypes\obj\Debug\netcoreapp3.1\IntegralTypes.pdb
+D:\_work\_dotnet\FullStackDotNet\csharp\IntegralTypes\obj\Debug\netcoreapp3.1\IntegralTypes.genruntimeconfig.cache

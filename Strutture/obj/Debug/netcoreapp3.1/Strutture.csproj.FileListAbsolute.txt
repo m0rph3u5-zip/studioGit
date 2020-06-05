@@ -1,0 +1,13 @@
+D:\_work\_dotnet\FullStackDotNet\csharp\Strutture\bin\Debug\netcoreapp3.1\Strutture.exe
+D:\_work\_dotnet\FullStackDotNet\csharp\Strutture\bin\Debug\netcoreapp3.1\Strutture.deps.json
+D:\_work\_dotnet\FullStackDotNet\csharp\Strutture\bin\Debug\netcoreapp3.1\Strutture.runtimeconfig.json
+D:\_work\_dotnet\FullStackDotNet\csharp\Strutture\bin\Debug\netcoreapp3.1\Strutture.runtimeconfig.dev.json
+D:\_work\_dotnet\FullStackDotNet\csharp\Strutture\bin\Debug\netcoreapp3.1\Strutture.dll
+D:\_work\_dotnet\FullStackDotNet\csharp\Strutture\bin\Debug\netcoreapp3.1\Strutture.pdb
+D:\_work\_dotnet\FullStackDotNet\csharp\Strutture\obj\Debug\netcoreapp3.1\Strutture.csprojAssemblyReference.cache
+D:\_work\_dotnet\FullStackDotNet\csharp\Strutture\obj\Debug\netcoreapp3.1\Strutture.csproj.CoreCompileInputs.cache
+D:\_work\_dotnet\FullStackDotNet\csharp\Strutture\obj\Debug\netcoreapp3.1\Strutture.AssemblyInfoInputs.cache
+D:\_work\_dotnet\FullStackDotNet\csharp\Strutture\obj\Debug\netcoreapp3.1\Strutture.AssemblyInfo.cs
+D:\_work\_dotnet\FullStackDotNet\csharp\Strutture\obj\Debug\netcoreapp3.1\Strutture.dll
+D:\_work\_dotnet\FullStackDotNet\csharp\Strutture\obj\Debug\netcoreapp3.1\Strutture.pdb
+D:\_work\_dotnet\FullStackDotNet\csharp\Strutture\obj\Debug\netcoreapp3.1\Strutture.genruntimeconfig.cache

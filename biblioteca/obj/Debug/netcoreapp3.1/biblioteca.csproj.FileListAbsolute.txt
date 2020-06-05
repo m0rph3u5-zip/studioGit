@@ -1,0 +1,13 @@
+D:\_work\_dotnet\FullStackDotNet\csharp\biblioteca\obj\Debug\netcoreapp3.1\biblioteca.csprojAssemblyReference.cache
+D:\_work\_dotnet\FullStackDotNet\csharp\biblioteca\obj\Debug\netcoreapp3.1\biblioteca.csproj.CoreCompileInputs.cache
+D:\_work\_dotnet\FullStackDotNet\csharp\biblioteca\obj\Debug\netcoreapp3.1\biblioteca.AssemblyInfoInputs.cache
+D:\_work\_dotnet\FullStackDotNet\csharp\biblioteca\obj\Debug\netcoreapp3.1\biblioteca.AssemblyInfo.cs
+D:\_work\_dotnet\FullStackDotNet\csharp\biblioteca\bin\Debug\netcoreapp3.1\biblioteca.exe
+D:\_work\_dotnet\FullStackDotNet\csharp\biblioteca\bin\Debug\netcoreapp3.1\biblioteca.deps.json
+D:\_work\_dotnet\FullStackDotNet\csharp\biblioteca\bin\Debug\netcoreapp3.1\biblioteca.runtimeconfig.json
+D:\_work\_dotnet\FullStackDotNet\csharp\biblioteca\bin\Debug\netcoreapp3.1\biblioteca.runtimeconfig.dev.json
+D:\_work\_dotnet\FullStackDotNet\csharp\biblioteca\bin\Debug\netcoreapp3.1\biblioteca.dll
+D:\_work\_dotnet\FullStackDotNet\csharp\biblioteca\bin\Debug\netcoreapp3.1\biblioteca.pdb
+D:\_work\_dotnet\FullStackDotNet\csharp\biblioteca\obj\Debug\netcoreapp3.1\biblioteca.dll
+D:\_work\_dotnet\FullStackDotNet\csharp\biblioteca\obj\Debug\netcoreapp3.1\biblioteca.pdb
+D:\_work\_dotnet\FullStackDotNet\csharp\biblioteca\obj\Debug\netcoreapp3.1\biblioteca.genruntimeconfig.cache
