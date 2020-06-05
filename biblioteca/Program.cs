@@ -43,6 +43,12 @@ namespace biblioteca
                 Titolo = "Il Piccolo Principe",
                 Autore = "Antoine de Saint-Exupéry"
             };
+
+            Libro Libro4 = new Libro() {
+                Id = 4,
+                Titolo = "Il Piccolo Principe",
+                Autore = "Antoine de Saint-Exupéry"
+            };
             
             Console.WriteLine("Libro aggiunto ");
             Console.WriteLine(Utente1.Denominazione);
@@ -56,6 +62,7 @@ namespace biblioteca
             biblioteca.Add(Libro1);
             biblioteca.Add(Libro2);
             biblioteca.Add(Libro3);
+            biblioteca.Add(Libro4);
 
             IEnumerable<Libro> resultQuery = 
                 from Libro in biblioteca
